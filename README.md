@@ -1,3 +1,4 @@
 # TetrisGame
-Repositorio para el trabajo de proyecto final, Tetris.
-Primer integrante: Jader Manuel Moré
+Repositorio para el trabajo  en el proyecto final, Juego Tetris.
+Primer integrante: Jader Manuel Moré.
+Segundo integrante: Luis Felipe Negrete.
