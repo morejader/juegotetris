@@ -1,2 +1,3 @@
 # TetrisGame
-Repositorio para el trabajo en el proyecto final. 
+Repositorio para el trabajo de proyecto final, Tetris.
+Primer integrante: Jader Manuel Moré
